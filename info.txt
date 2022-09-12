@@ -1,1 +1,5 @@
-1222
+{
+    "link": "http://www.sina.com",
+    "url": "http://www.baidu.com",
+    "code": 88
+}
