@@ -1,5 +1,5 @@
 {
-    "link": "http://www.sina.com",
+    "link": "https://www.jiliasia.com/?pid=dongfang101",
     "url": "https://www.jiliasia.com/?pid=dongfang101",
-    "code": 99988
+    "code": 77744
 }
