@@ -1,5 +1,3 @@
 {
-    "link": "https://www.jiliasia.com/?pid=dongfang101",
-    "url": "https://www.jiliasia.com/?pid=dongfang101",
-    "code": 77744
+    "key": ef7dcbe366524b8899caa33d7b7fd396
 }
